@@ -1,0 +1,14 @@
+.idea
+db-variables.sh
+environment_variables.sh
+21-mobile-service
+21-mobile-ui
+21-mobile-worker
+node_modules
+logindata-local
+videos
+/screenshots/*
+logindata-local.json
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+.project

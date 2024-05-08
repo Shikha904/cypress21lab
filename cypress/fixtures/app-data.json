@@ -1,0 +1,7 @@
+{
+  "androidAppFile": "/Applications/Android/ExpenseAppVer1.0.apk",
+  "emulatorAppFile": "/Applications/Android/ExpenseAppVer1.0.apk",
+  "simulatorAppFile": "/Applications/iOS/TheApp-v1.10.0.app.zip",
+  "iOSAppFile": "/Applications/iOS/TheApp-v1.10.0.app.ipa",
+  "projectName": ["AndroidProject"]
+}

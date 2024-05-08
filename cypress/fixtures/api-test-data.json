@@ -1,0 +1,34 @@
+{
+  "GET": {
+    "method": "GET",
+    "url": "http://api.icndb.com/jokes/37"
+  },
+  "POST": {
+    "method": "POST",
+    "url": "https://reqres.in/api/users",
+    "body": {
+      "name": "morpheus",
+      "job": "leader"
+    }
+  },
+  "DELETE": {
+    "method": "DELETE",
+    "url": "http://httpbin.org/delay/10"
+  },
+  "PUT": {
+    "method": "PUT",
+    "url": "https://reqres.in/api/users/2",
+    "body": {
+      "name": "morpheus1",
+      "job": "leader1"
+    }
+  },
+  "PATCH": {
+    "method": "PATCH",
+    "url": "https://reqres.in/api/users/2",
+    "body": {
+      "name": "Jane",
+      "job": "Testing"
+    }
+  }
+}
